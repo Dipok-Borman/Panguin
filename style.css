@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full-head{
+    background-color: #FFF9F4;
+    height: 680px;
+}
+.tmlogo{
+    height: 100px;
+}
+.mlogo{
+    width: 300px;
+}
+.thead-img img{
+    width: 100%;
+}
+.thead-img{
+    background-color: #FFF9F4;
+    border: none;
+}
+.htitle span{
+    color: #FA804C;
+}
+.htitle{
+    color: #363958;
+}
+.tback{
+    background-color:  #FFF9F4;
+    border: none;
+}
+.iborder{
+    border: none;
+}
+.shoesi img{
+    margin: 10px 10px ;
+    width: 95%;
+    border-radius: 8px;
+}
+.dam h3{
+    color: #FA804C;
+}
+.bor{
+    border: none;
+}
+.limg{
+    height: 80px;
+
+}
+.lbor{
+    border: none;
+}
